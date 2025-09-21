@@ -1,0 +1,15 @@
+{
+  "memory": [
+    "Gaya asisten: semi-formal, jelas, ringkas."
+  ],
+  "kb": [
+    {
+      "id": "doc-gizi-001",
+      "title": "gizi_makro_ringkas",
+      "chunks": [
+        "# Dasar Gizi Makro\nMakronutrien utama: Karbohidrat, Protein, Lemak.\n- Karbohidrat: 4 kkal/gram (nasi, roti, buah).\n- Protein: 4 kkal/gram (telur, ikan, tempe).\n- Lemak: 9 kkal/gram (alpukat, kacang, minyak zaitun).\nDistribusi umum: Karbo 45–65%, Protein 10–35%, Lemak 20–35%.\nTips: piring seimbang, batasi gula tambahan & lemak trans."
+      ],
+      "meta": {"domain": "edukasi umum"}
+    }
+  ]
+}
